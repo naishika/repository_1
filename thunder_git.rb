@@ -1,4 +1,5 @@
-#!/usr/bin/ruby
+##test
+##!/usr/bin/ruby
 
 IMGDIR = "/sample/thunder"
 TOADDR = "test@sample.jp"
